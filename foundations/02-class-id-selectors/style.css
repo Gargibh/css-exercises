@@ -1,0 +1,19 @@
+.odd_class, 
+.font{
+    background-color: rgba(255, 0, 0, 0.3);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+} 
+
+.font{
+    font-size: 24px;
+}
+
+#num_ID{
+    color: blue;
+    font-size: 36px;
+}
+
+#num_ID_2{
+    background-color: rgba(0, 255, 0, 0.4);
+    font-weight: bold;
+}
